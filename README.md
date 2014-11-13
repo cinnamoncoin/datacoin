@@ -4,13 +4,13 @@ http://datacoin.info
 
 https://datacointalk.org
 
+Copyright (c) 2014 Datacoin developers
+
 Copyright (c) 2013 Primecoin Developers
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
 Copyright (c) 2011-2013 PPCoin Developers
-
-Copyright (c) 2014 Datacoin developers
 
 ### What is Datacoin?
 Datacoin is a reliable, censorship-free currency that can be used for transactions and data storage within its sophisticated blockchain.
@@ -40,7 +40,7 @@ development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
 submitter will be asked to start a discussion (if they haven't already) on the
-ppcoin/primecoin forum (http://datacointalk.org).
+datacoin forum (http://datacointalk.org).
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/switchpwn/datacoin/tags) are
