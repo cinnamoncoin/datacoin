@@ -1,0 +1,4 @@
+datacoin
+========
+
+Datacoin Qt-Client
